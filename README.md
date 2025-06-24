@@ -1,30 +1,23 @@
 ### Bruno Queles aqui :)
-Atualmente Cientista de Dados, criando aulas e conteúdos pro YouTube, Medium e outras redes. Curioso sobre programação de jogos e estudando Lua nas horas vagas.
+Especialista de Dados, criando e conteúdos pro Github e Linkedin. Curioso sobre programação de jogos e estudando a Lua nas horas vagas.
 
-- 👨🏻‍💻 **Professor** de Ciência de Dados na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
-- 🧗🏼 Apaixonado por **escalada**
-- 📸 Também falo sobre **Ciência de Dados** no YouTube da [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao)
+- 👨🏻‍💻 **Estudante** de Ciência de Dados na [Preditiva Analytics](https://www.preditiva.ai.com.br/)
+- 🧗🏼 Apaixonado por **Praia e viagens**
+- 📸 Também falo sobre **Ciência de Dados** no Linkedin (https://www.linkedin.com/in/brunoqueles)
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />            
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />      
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
+          
 </div> 
 
 ##
 
 ### Você também me encontra em:
-&nbsp;<a href="https://br.linkedin.com/in/lucas-leal-santos">
+&nbsp;<a href="https://www.linkedin.com/in/brunoqueles">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://llucaslleall.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/_llucaslleall/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.youtube.com/@HashtagProgramacao">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>&nbsp;
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
